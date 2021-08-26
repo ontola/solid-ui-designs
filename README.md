@@ -15,4 +15,4 @@ Designed with the philosophy of linked data, data ownership and the Solid specif
 
 ## License
 
-CC-BY Ontola.io + Jager & Prooi, 2021
+CC-BY or MIT: Ontola.io + Jager & Prooi, 2021
