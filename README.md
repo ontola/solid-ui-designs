@@ -7,6 +7,8 @@ Designed with the philosophy of linked data, data ownership and the Solid specif
 - [Open the UX mockup demo](https://www.figma.com/proto/wkc2XEA6Lddai8n4PUU83C/Solidstarter-Prototype?page-id=327%3A0&node-id=335%3A32985&viewport=289%2C241%2C0.04754795879125595&scaling=scale-down) on figma. You are also free to view and edit the included [`solid-ui.fig`](solid-ui.fig) file
 - [Read the blogpost](https://ontola.io/blog/ui-for-pods/) on Ontola.io about the challenges and opportunities of designing the UI for a Pod based operating system.
 
+![](./solid-1.jpg)
+
 ## Credits
 
 - Design by [Jager & Prooi](https://jagerenprooi.nl/) (UX by [Lara Vaneman](https://www.linkedin.com/in/laravaneman/), UI by [Shelly Stoop](https://www.linkedin.com/in/shellystoop/))
@@ -18,4 +20,3 @@ Designed with the philosophy of linked data, data ownership and the Solid specif
 
 CC-BY or MIT: Ontola.io + Jager & Prooi, 2021
 
-![](./solid-1.jpg)
